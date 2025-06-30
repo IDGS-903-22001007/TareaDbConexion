@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345099844423",
+    "project_id": "bdtareas-d91e6",
+    "storage_bucket": "bdtareas-d91e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345099844423:android:0556db341c140a3bc56a62",
+        "android_client_info": {
+          "package_name": "com.example.tareadbconexion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4ZIZi-tnprPloBNgKs4xCafshcnOmzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
